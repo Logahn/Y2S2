@@ -1,0 +1,19 @@
+{"intents":[
+    {
+        "tag": "Greetings",
+        "patterns": ["hello", "how are you?","What's up?"],
+        "response": ["I am good", "Very well, how are you too", "How can I help you?"]
+    },
+    {
+        "tag": "Goodbye",
+        "patterns": ["Had a nice time", "See you later", "Goodbye"],
+        "response": ["The pleasure was mine", "Had a nice time too", "See you later"]
+    },
+    {
+        "tag": "Directions",
+        "patterns": ["What way?", "where?", "What side?"],
+        "response": ["right", "left","that way", "here"]
+    }
+  
+
+]}

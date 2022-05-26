@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>vtb-logo.jpg</file>
+    <file>background.jpg</file>
+    <file>spec3.jpg</file>
+    <file>spec2.jpg</file>
+    <file>spec1.jpg</file>
+  </qresource>
+</RCC>
